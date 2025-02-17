@@ -14,5 +14,12 @@ Jira Site 指的是 Jira 軟體的雲端環境，讓團隊可以在雲端上存�
 3. 建立 site ![alt text](image-3.png)
 4. 完成，進入 module 3 吧
 
+### 後續若要建立
+1. 進入 [Administration - Atlassian](https://admin.atlassian.com/)
+2. 點擊"產品" > "新增產品" ![alt text](image-4.png)
+3. 選擇 Jira ![alt text](image-5.png)
+4. 取一個名稱作為 site ![alt text](image-6.png)
+5. 之後就進入 module 3 啦 ![alt text](image-7.png)
+
 ## References
 - https://support.atlassian.com/statuspage/docs/understand-atlassian-sites-and-organizations/
