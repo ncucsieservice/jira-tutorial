@@ -60,7 +60,10 @@ Kanban 一詞源於 Toyota 提出的精益生產模式 "かんばん"，意思�
 3. 使用範本 ![alt text](image-8.png)
 4. 選擇專案類型 ![alt text](image-9.png)
     - 由於我們並非多階級劃分的團隊，而是團隊共同合作，不需要做權限劃分，所以這邊我們選團隊管理
-
+5. 設置專案 ![alt text](image-10.png)
+    - 專案名稱
+    - 索引鍵: 之後在這個專案發 issue 的時候，每個 issue 都會有個編號，而編號就是 "索引鍵-數字"
+    - 存取: 設定專案的權限
 
 ## Reference
 - https://asana.com/zh-tw/resources/what-is-kanban
