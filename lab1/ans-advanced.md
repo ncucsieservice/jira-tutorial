@@ -59,8 +59,6 @@
 
 接下來就是指派任務。**每個 Task 都要指定負責人**，確保進度可追蹤。
 
-
-
 ### 4. 使用 Jira 的工作流程
 在 Jira 中，每個 Issue 會經過以下 Kanban 流程：  
 待處理 (To Do) → 進行中 (In Progress) → 完成 (Done)  
